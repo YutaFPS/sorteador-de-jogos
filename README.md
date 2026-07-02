@@ -55,3 +55,12 @@ let escudos = [
     "real-matismo.jpg"
 ]
 ```
+```
+git config user.name "nominho"
+git config user.email "emaildogithub"
+
+git add .
+git commit -m "sorteador"
+git push
+```
+
